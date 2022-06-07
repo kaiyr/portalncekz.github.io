@@ -1,0 +1,16 @@
+.BoxContent {
+    width: 50%;
+    margin: 7% auto;
+    position: relative;
+    background-color: #fff;
+    -webkit-box-shadow: 2px 2px 13px 0px rgb(0 0 0 / 20%);
+    -moz-box-shadow: 2px 2px 13px 0px rgba(0,0,0,.20);
+    box-shadow: 2px 2px 13px 0px rgb(0 0 0 / 20%);
+}
+.EnabizLogo {
+    padding: 15px;
+    height: 70px;
+    position: relative;
+    left: 0;
+    margin-bottom: 50px;
+}
